@@ -1,2 +1,2 @@
 # hello-world
-first github repo
+first public github repo
